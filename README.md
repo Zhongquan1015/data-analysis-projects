@@ -1,6 +1,5 @@
 # data-analysis-projects
 Data analysis projects using Python/R, focusing on statistical modeling, experiments, and interpretation.
-# Data Analysis Projects
 
 This repository contains selected data analysis and data science projects completed during coursework and internships.
 
